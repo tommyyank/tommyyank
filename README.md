@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Tommy! </h1>
 
-<!--
-**tommyyank/tommyyank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 About Me</h2>
 
-Here are some ideas to get you started:
+- <b>This is my portfolio to display my experience and what I have learned and worked on while pursuing my degree in Computer Science </b>
 
-- 🔭 Experience in Java, c, sql
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>I have posted on here assignments and coursework from my college career along with stand-alone projects I work on outside of school</b>
+  
+- <b>Interests</b>
+  - Software Development/Engineering
+  - Database Management
+  - Project Management
+  - Cloud Computing
+
+
+<h2> 🤳 Contact me:</h2>
+<b>Email: tyankowski77@gmail.com<b>
+
+
+
+
