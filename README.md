@@ -9,7 +9,7 @@
 - <b>The work I have posted on here is to demonstrate my experience with using Java, C, and SQL</b>
   
 - <b>Interests</b>
-  - Software Development/Engineering
+  - Data Analytics
   - Database Management
   - Project Management
   - Cloud Computing
